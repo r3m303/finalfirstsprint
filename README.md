@@ -13,3 +13,9 @@ Website Figma -- https://www.figma.com/
 3. Share your Figma design link on this repository.
 
 ![Wireframe](https://user-images.githubusercontent.com/36503834/223250907-f987d96c-a2a2-4aec-af1e-198b9e79df4f.png)
+
+## Task 2: Submit your Wireframe design.
+Edit this Readme.md by attach link of your figma design.
+
+Paste you Figma designe here : 
+
