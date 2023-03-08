@@ -1,5 +1,5 @@
 
-# Final Project: First Sprint - Task 1 
+# Final Project: First ***Group*** Sprint
 
 ## Task 1 : Design your app wireframes using Figma
 Website Figma -- https://www.figma.com/
@@ -10,12 +10,18 @@ Website Figma -- https://www.figma.com/
 * **Second**: The user can edit the information in the Exercise Activity Card.
 * **Third**: The user can read the information on that card (that is displayed on the app) and can delete that card.
 
-3. Share your Figma design link on this repository.
+3. Share your ***group*** Figma design link on this repository.
 
 ![Wireframe](https://user-images.githubusercontent.com/36503834/223250907-f987d96c-a2a2-4aec-af1e-198b9e79df4f.png)
 
-## Task 2: Submit your Wireframe design.
+## Task 2: Submit your ***group*** idea/concept/mood boards.
+Upload your concept board as PDF file to this reposity. <br>
+filename as template : Group(A-J)_ConceptName.pdf
+
+
+
+## Task 3: Submit your ***group*** Wireframe  Group design.
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
-
+Group Aphabet [A-J]
